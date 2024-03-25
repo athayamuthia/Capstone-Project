@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bb30061-d0bc-412d-bb28-3b8406abb840" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/Pet/pet.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/Store/store.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/User/newUser.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/User/user.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Karate" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dzESq4B0O3Bnm79YEwY1AGBIRX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Runner.runStore.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Runner.runUser.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/muthia.athaya/Videos/KarateTutorial&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.256167&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muthia.athaya\Videos\KarateTutorial\src\test\java" />
+      <recent name="C:\Users\muthia.athaya\Videos\KarateTutorial\src\test\java\com\automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner.runUser">
+    <configuration name="Runner.runStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.runUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner.runUser" />
+        <item itemvalue="JUnit.Runner.runStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb30061-d0bc-412d-bb28-3b8406abb840" name="Changes" comment="" />
+      <created>1711002510309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711002510309</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -5,7 +5,8 @@ import com.intuit.karate.junit5.Karate.Test;
 public class Runner {
     @Test
     public Karate runMealPlan(){
-        return Karate.run("MealPlan/mealPlan").relativeTo((getClass()));
+//        return Karate.run("MealPlan/mealPlan","Mealplan/shopping").relativeTo((getClass()));
+        return Karate.run("Mealplan/shopping").relativeTo((getClass()));
     }
     @Test
     public Karate runMisc(){

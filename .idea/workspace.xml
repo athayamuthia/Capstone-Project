@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bb30061-d0bc-412d-bb28-3b8406abb840" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/MealPlan/mealPlan.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/Misc/misc.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/Recipes/recipes.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/nutritionWidget.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/MealPlan/shopping.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSuite/Pet/pet.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestSuite/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSuite/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSuite/Store/store.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSuite/User/newUser.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSuite/User/user.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/muthia.athaya/Videos/KarateAdvanced",
+    "last_opened_file_path": "C:/Users/muthia.athaya/Videos/KarateTutorial",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "settings.editor.splitter.proportion": "0.256167"
   }
@@ -67,7 +59,7 @@
       <recent name="C:\Users\muthia.athaya\Videos\KarateTutorial\src\test\java\com\automation" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Runner.runRecipes">
+  <component name="RunManager" selected="JUnit.Runner.runMealPlan">
     <configuration name="Runner.runMealPlan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="KarateAdvanced" />
       <extension name="coverage">
@@ -150,9 +142,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Runner.runMealPlan" />
         <item itemvalue="JUnit.Runner.runRecipes" />
         <item itemvalue="JUnit.Runner.runMisc" />
-        <item itemvalue="JUnit.Runner.runMealPlan" />
         <item itemvalue="JUnit.Runner.runUser" />
         <item itemvalue="JUnit.Runner.runStore" />
       </list>
